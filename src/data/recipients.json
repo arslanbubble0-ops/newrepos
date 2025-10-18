@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Good OK for E-File, No Email Error",
+    "ssn": "***-**-1234",
+    "email": "good@example.com",
+    "address": "123 Good St",
+    "city": "Good City",
+    "state": "GC",
+    "zip": "12345",
+    "formType": "NEC",
+    "amount": 0.00
+  },
+  {
+    "id": "2",
+    "name": "shaista",
+    "ssn": "***-**-5678",
+    "email": "shaista@example.com",
+    "address": "456 Shaista Ave",
+    "city": "Shaista City",
+    "state": "SC",
+    "zip": "23456",
+    "formType": "NEC",
+    "amount": 90.00
+  },
+  {
+    "id": "3",
+    "name": "56",
+    "ssn": "***-**-9012",
+    "email": "56@example.com",
+    "address": "789 Fifty Six Rd",
+    "city": "Fifty City",
+    "state": "FC",
+    "zip": "34567",
+    "formType": "MISC",
+    "amount": 35.00
+  },
+  {
+    "id": "4",
+    "name": "kinza",
+    "ssn": "***-**-3456",
+    "email": "kinza@example.com",
+    "address": "321 Kinza Blvd",
+    "city": "Kinza City",
+    "state": "KC",
+    "zip": "45678",
+    "formType": "NEC",
+    "amount": 21.00
+  },
+  {
+    "id": "5",
+    "name": "444",
+    "ssn": "***-**-7890",
+    "email": "444@example.com",
+    "address": "654 Four Blvd",
+    "city": "Four City",
+    "state": "FC",
+    "zip": "56789",
+    "formType": "NEC",
+    "amount": 90.00
+  }
+]
