@@ -12,7 +12,7 @@ const Payers = () => {
   const columns = [
     { key: 'name', header: 'Payer Name' },
     { key: 'ein', header: 'EIN' },
-    {
+    { 
       key: 'address',
       header: 'Address',
       render: (value: string, row: any) => (
